@@ -3,109 +3,84 @@
 This is a collection of free and paid resources to recommend to anyone interested in coding.
 
 Want to help improve this repo ? Contributions are welcome 🙂
-Please open a pull request or create an issue. Alternatively you can contact on twitter [@funmmi](https://twitter.com/funmmi)
+Please open a pull request or create an issue. Alternatively you can contact on twitter - [@funmmi](https://twitter.com/funmmi)
 
 ----
 
 ### Online Courses
 
-* **Codecademy** [https://www.codecademy.com/](https://www.codecademy.com/)
+- [Codecademy](https://www.codecademy.com/)
 
-* **Interneting is Hard**
-[https://internetingishard.com/](https://internetingishard.com/)
+- [Interneting is Hard](https://internetingishard.com/)
 
   A free and in-depth web development tutorial.
 
-* **Udacity**
-[https://eu.udacity.com/](https://eu.udacity.com/)
+- [Udacity](https://eu.udacity.com/)
 
   Udacity has a large variety of free and paid Courses and degree in different fields like web development, data science,       Machine learning e.t.c. Most of the courses have a 7 day trial period so you can decide if you like before you subscribe.
 
-* **Treehouse**
-[https://teamtreehouse.com/tracks](https://teamtreehouse.com/tracks)
+- [Treehouse](https://teamtreehouse.com/tracks)
 
   Paid Video Courses and Tech-degree in different programming languages. Most of the courses have a 7 day trial period so you   can decide if you like before you subscribe.
 
-* **Free Code Camp**
-[https://www.freecodecamp.org/](https://www.freecodecamp.org/)
+- [Free Code Camp](https://www.freecodecamp.org/)
 
-* **W3Schools**
-[https://www.w3schools.com/](https://www.w3schools.com/)
+- [W3Schools](https://www.w3schools.com/)
 
-* **CSS-Tricks**
-[https://css-tricks.com/](https://css-tricks.com/)
+- [CSS-Tricks](https://css-tricks.com/)
 
    Large catalogue of free web development and web design resources.
 
-* **Harvard CS50: Intro to computer science**
-[https://online-learning.harvard.edu/course/cs50-introduction-computer-science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
+- [Harvard CS50: Intro to computer science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
 
-* **RayWeinderlich.com**
-[https://www.raywenderlich.com/](https://www.raywenderlich.com/)
+- [RayWeinderlich.com](https://www.raywenderlich.com/)
 
-* **Github Guides**
-[https://guides.github.com/activities/hello-world/](https://guides.github.com/activities/hello-world/)
+- [Github Guides](https://guides.github.com/activities/hello-world/)
 
   Learn about the essentials of version control and hosting your code online.
 
-* **Codewars**
-[https://www.codewars.com/](https://www.codewars.com/)
+- [Codewars](https://www.codewars.com/)
 
   Practice and improve your coding skills through problem solving.
 
-* **Big Nerd Ranch**
-[https://www.bignerdranch.com/bootcamps/](https://www.bignerdranch.com/bootcamps/)
+- [Big Nerd Ranch](https://www.bignerdranch.com/bootcamps/)
 
 
 
 ### In-Person Learning & Training
 
-* **CodeBar**
-[https://codebar.io/](https://codebar.io/)
+- [CodeBar](https://codebar.io/)
 
   Free hands-on coding workshops and tutorials.
 
-* **CodeFirst: Girls**
-[https://www.codefirstgirls.org.uk/](https://www.codefirstgirls.org.uk/)
+- [CodeFirst: Girls](https://www.codefirstgirls.org.uk/)
 
-* **Women Who Code**
-[https://www.meetup.com/Women-Who-Code-London/events/](https://www.meetup.com/Women-Who-Code-London/events/)
+- [Women Who Code](https://www.meetup.com/Women-Who-Code-London/events/)
 
   Global network of women in Tech. https://www.womenwhocode.com/
 
-* **Ladies of Code**
-[https://www.meetup.com/Ladies-of-Code-UK/](https://www.meetup.com/Ladies-of-Code-UK/)
+- [Ladies of Code](https://www.meetup.com/Ladies-of-Code-UK/)
 
   International network of women developers. https://www.ladiesofcode.com/
 
-* **Black Girl Tech**
-[https://home.blackgirl.tech/](https://home.blackgirl.tech/)
+- [Black Girl Tech](https://home.blackgirl.tech/)
 
   A safe space for black women to learn and explore technology.
 
-* **Rails Girls**
-[http://railsgirls.com/](http://railsgirls.com/)
+- [Rails Girls](http://railsgirls.com/)
 
-* **Makers Academy**
-[https://www.makersacademy.com/](https://www.makersacademy.com/)
+- [Makers Academy](https://www.makersacademy.com/)
 
-* **Founders and Coders**
-[https://foundersandcoders.com/](https://foundersandcoders.com/)
+- [Founders and Coders](https://foundersandcoders.com/)
 
-* **Constructor Labs**
-[https://www.constructorlabs.com/](https://www.constructorlabs.com/)
+- [Constructor Labs](https://www.constructorlabs.com/)
 
-* **General Assembly London**
-[https://generalassemb.ly/](https://generalassemb.ly/)
+- [General Assembly London](https://generalassemb.ly/)
 
-* **Le Wagon**
-[https://www.lewagon.com/](https://www.lewagon.com/)
+- [Le Wagon](https://www.lewagon.com/)
 
-* **8th Light Apprenticeships**
-[https://8thlight.com/apprenticeship/](https://8thlight.com/apprenticeship/)
+- [8th Light Apprenticeship](https://8thlight.com/apprenticeship/)
 
-* **Sky Get into Tech**
-[http://getintotech.sky.com/](http://getintotech.sky.com/)
+- [Sky Get into Tech](http://getintotech.sky.com/)
 
-* **Made Tech Academy**
-[https://www.madetech.com/careers/academy](https://www.madetech.com/careers/academy)
+- [Made Tech Academy](https://www.madetech.com/careers/academy)
