@@ -3,7 +3,7 @@
 This is a collection of free and paid resources to recommend to anyone interested in coding.
 
 Want to help improve this repo ? Contributions are welcome 🙂
-Please open a pull request or create an issue. Alternatively you can contact on twitter - [@funmmi](https://twitter.com/funmmi)
+Please open a pull request or create an issue. Alternatively you can contact me on twitter - [@funmmi](https://twitter.com/funmmi)
 
 ----
 
@@ -17,11 +17,11 @@ Please open a pull request or create an issue. Alternatively you can contact on 
 
 - [Udacity](https://eu.udacity.com/)
 
-  Udacity has a large variety of free and paid Courses and degree in different fields like web development, data science,       Machine learning e.t.c. Most of the courses have a 7 day trial period so you can decide if you like before you subscribe.
+  Udacity has a large variety of free and paid Courses and degree in different fields like web development, data science,       Machine learning e.t.c. Most of the courses have a 7 day trial period so you can decide if you it like before you subscribe.
 
 - [Treehouse](https://teamtreehouse.com/tracks)
 
-  Paid Video Courses and Tech-degree in different programming languages. Most of the courses have a 7 day trial period so you   can decide if you like before you subscribe.
+  Paid Video Courses and Tech-degree in different programming languages. Most of the courses have a 7 day trial period so you   can decide if you like it before you subscribe.
 
 - [Free Code Camp](https://www.freecodecamp.org/)
 
@@ -30,6 +30,10 @@ Please open a pull request or create an issue. Alternatively you can contact on 
 - [CSS-Tricks](https://css-tricks.com/)
 
    Large catalogue of free web development and web design resources.
+   
+- [Dash by General Assembly](https://dash.generalassemb.ly/)
+
+  Learn to code websites for free in HTML, CSS, AND JAVASCRIPT.
 
 - [Harvard CS50: Intro to computer science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
 
@@ -69,13 +73,17 @@ Please open a pull request or create an issue. Alternatively you can contact on 
 
 - [Rails Girls](http://railsgirls.com/)
 
+- [Clojure Bridge](https://clojurebridgelondon.github.io/)
+  
+  A free workshop teaching the Clojure programming language, for trans/cis women & non-binary people.
+  
 - [Makers Academy](https://www.makersacademy.com/)
 
 - [Founders and Coders](https://foundersandcoders.com/)
 
 - [Constructor Labs](https://www.constructorlabs.com/)
 
-- [General Assembly London](https://generalassemb.ly/)
+- [General Assembly](https://generalassemb.ly/)
 
 - [Le Wagon](https://www.lewagon.com/)
 
