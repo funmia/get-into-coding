@@ -77,7 +77,9 @@ Please open a pull request or create an issue. Alternatively you can contact me 
   
   A free workshop teaching the Clojure programming language, for trans/cis women & non-binary people.
   
-- [Makers Academy](https://www.makersacademy.com/)
+- [Makers Academy](https://makers.tech/)
+
+  A software development bootcamp that runs paid courses, apprenticeships and fellowships.
 
 - [Founders and Coders](https://foundersandcoders.com/)
 
