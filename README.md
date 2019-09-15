@@ -87,6 +87,8 @@ Please open a pull request or create an issue. Alternatively you can contact me 
 
 - [General Assembly](https://generalassemb.ly/)
 
+- [Flatiron School](https://flatironschool.com/)
+
 - [Le Wagon](https://www.lewagon.com/)
 
 - [8th Light Apprenticeship](https://8thlight.com/apprenticeship/)
