@@ -19,6 +19,8 @@ Please open a pull request or create an issue. Alternatively you can contact me 
 
   Udacity has a large variety of free and paid Courses and degree in different fields like web development, data science,       Machine learning e.t.c. Most of the courses have a 7 day trial period so you can decide if you it like before you subscribe.
 
+- [Google’s Guide to Technical Development](https://techdevguide.withgoogle.com/)
+
 - [Treehouse](https://teamtreehouse.com/tracks)
 
   Paid Video Courses and Tech-degree in different programming languages. Most of the courses have a 7 day trial period so you   can decide if you like it before you subscribe.
