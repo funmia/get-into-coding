@@ -34,9 +34,9 @@ This is a collection of in-person and online coding resources to recommend to an
 
 - [RayWenderlich.com](https://www.raywenderlich.com/)
 
-- [Treehouse](https://teamtreehouse.com/tracks): Paid Video Courses and Tech-degree in different programming languages. Most of the courses have a 7 day trial period so you   can decide if you like it before you subscribe.
+- [Treehouse](https://teamtreehouse.com/tracks)
 
-- [Udacity](https://eu.udacity.com/): Udacity has a large variety of free and paid Courses and degree in different fields like web development, data science,       Machine learning e.t.c. Most of the courses have a 7 day trial period so you can decide if you it like before you subscribe.
+- [Udacity](https://eu.udacity.com/)
 
 - [Web Skills](https://andreasbm.github.io/web-skills/)
 
