@@ -34,6 +34,8 @@ This is a collection of in-person and online coding resources to recommend to an
 
 - [RayWenderlich.com](https://www.raywenderlich.com/)
 
+- [SuperHi](https://www.superhi.com/)
+
 - [Treehouse](https://teamtreehouse.com/tracks)
 
 - [Udacity](https://eu.udacity.com/)
@@ -76,5 +78,7 @@ This is a collection of in-person and online coding resources to recommend to an
 - [Sky Get into Tech](http://getintotech.sky.com/)
 
 - [Women Who Code](https://www.meetup.com/Women-Who-Code-London/events/): Global network of women in Tech. https://www.womenwhocode.com/
+
+- [23 Code Street](https://www.23codestreet.com/)
 
 - [8th Light Apprenticeship](https://8thlight.com/apprenticeship/)
