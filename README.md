@@ -53,6 +53,8 @@ This is a collection of in-person and online coding resources to recommend to an
 
 - [Code Institute](https://codeinstitute.net/)
 
+- [Coders of Colour](http://www.codersofcolour.org/)
+
 - [Coding Black Females](https://codingblackfemales.com/)
 
 - [Constructor Labs](https://www.constructorlabs.com/)
@@ -76,6 +78,8 @@ This is a collection of in-person and online coding resources to recommend to an
 - [Rails Girls](http://railsgirls.com/)
 
 - [Sky Get into Tech](http://getintotech.sky.com/)
+
+- [Witty Careers](https://www.wittycareers.org/)
 
 - [Women Who Code](https://www.meetup.com/Women-Who-Code-London/events/): Global network of women in Tech. https://www.womenwhocode.com/
 
