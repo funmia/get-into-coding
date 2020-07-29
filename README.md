@@ -28,6 +28,8 @@ This is a collection of in-person and online coding resources to recommend to an
 
 - [Google’s Guide to Technical Development](https://techdevguide.withgoogle.com/)
 
+- [Hacking with Swift](https://www.hackingwithswift.com/)
+
 - [Harvard CS50: Intro to computer science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
 
 - [Interneting is Hard](https://internetingishard.com/): A free and in-depth web development tutorial.
