@@ -34,6 +34,8 @@ This is a collection of in-person and online coding resources to recommend to an
 
 - [Interneting is Hard](https://internetingishard.com/): A free and in-depth web development tutorial.
 
+- [MDN Front-end web developer learning pathway](https://developer.mozilla.org/en-US/docs/Learn)
+
 - [RayWenderlich.com](https://www.raywenderlich.com/)
 
 - [SuperHi](https://www.superhi.com/)
